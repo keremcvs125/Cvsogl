@@ -1,0 +1,2 @@
+# Cvsogl
+Tc kimlik sorgu
